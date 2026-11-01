@@ -10,15 +10,14 @@ Follow [ONBOARDING.md](https://github.com/RuntimeRepublic/Legislative-Manager/bl
 
 ## My steps
 - [ ] 1. I have a GitHub account (this one)
-- [ ] 2. I read *The One-Hour Rule* Lessons 01–05 and *Reading the Draft* Lessons 01–02
-- [ ] 7. (Recommended) I set up my AI assistant with the Contributor instructions
+- [ ] 2. I read *The One-Hour Rule* Lessons 01–05 (*Reading the Draft* recommended)
+- [ ] 6. (Recommended) I set up my AI assistant with the Contributor instructions
 
 ## Recorded by the Human Engineer
 - [ ] 4. Private details received
-- [ ] 5. Lesson quizzes passed (Part A)
-- [ ] 6. Explain it back passed (Part B)
+- [ ] 5. Readiness Check passed
 - [ ] Public-office notice given, if applicable (SPEC-003 §18.3(1))
-- [ ] 8. Level 1 granted and recorded
+- [ ] 7. Level 1 granted and recorded
 
 ## Anything you want to tell us (optional)
 <!-- What draws you to this project? Any skills to offer: research, law, fiscal, writing, outreach? -->

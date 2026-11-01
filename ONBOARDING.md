@@ -15,13 +15,12 @@ find the first unchecked box on their onboarding issue (Step 3).
 | Step | What you do | Evidence left behind | Who checks it |
 |---|---|---|---|
 | 1 | Create a GitHub account | Your GitHub username | — |
-| 2 | Read the two courses | — | — |
+| 2 | Read the course | — | — |
 | 3 | Open your onboarding issue | The issue (public) | — |
 | 4 | Send private details to the Human Engineer | A "received" note on your issue (no details) | Human Engineer |
-| 5 | Pass the lesson quizzes | A "quizzes passed" note on your issue | Human Engineer (by hand for now) |
-| 6 | Pass "Explain it back" | A "Part B passed" note on your issue | Human Engineer |
-| 7 | Set up your AI assistant (recommended) | A checked box on your issue | You (self-reported) |
-| 8 | Receive Level 1 | A `level-1` label and a recorded grant | Human Engineer |
+| 5 | Take the Readiness Check | A "Readiness Check passed" note on your issue | Human Engineer |
+| 6 | Set up your AI assistant (recommended) | A checked box on your issue | You (self-reported) |
+| 7 | Receive Level 1 | A `level-1` label and a recorded grant | Human Engineer |
 
 Then you move up to Level 2 and Level 3 by doing useful work (SPEC-003 §18.2).
 
@@ -33,10 +32,11 @@ Create a free account at [github.com](https://github.com). That is the only acco
 
 ## Step 2 — Learn the goal
 
-Read these free courses in the Runtime-Republic Training repository:
+Read this free course in the Runtime-Republic Training repository. Each lesson takes about three minutes:
 
 - [*The One-Hour Rule*](https://github.com/RuntimeRepublic/Runtime-Republic-Training/tree/main/Courses/one-hour-rule), Lessons 01–05
-- [*Reading the Draft*](https://github.com/RuntimeRepublic/Runtime-Republic-Training/tree/main/Courses/reading-the-draft), Lessons 01–02
+
+Recommended, not required: [*Reading the Draft*](https://github.com/RuntimeRepublic/Runtime-Republic-Training/tree/main/Courses/reading-the-draft), Lessons 01–02.
 
 ## Step 3 — Open your onboarding issue
 
@@ -58,6 +58,7 @@ your onboarding issue:
 | Preferred way to be contacted | |
 | Whether you are a **private citizen** or an **officeholder** (and which public body) | |
 
+Your state and U.S. congressional district are asked on the Readiness Check form (Step 5).
 Later, at Level 2, you will also be asked for your ZIP code and your districts. To find your
 districts, enter your own address in the U.S. Census Bureau's
 [Census Geocoder](https://geocoding.geo.census.gov/geocoder/geographies/address?form)
@@ -73,26 +74,21 @@ At Level 2 you may also share two **optional** details. Skipping them never affe
 
 The Human Engineer will comment "Private details received" on your issue. Nothing more.
 
-## Step 5 — Lesson quizzes (SPEC-003 §18.1, Part A)
+## Step 5 — Readiness Check (SPEC-003 §18.1)
 
-Ask for the quiz form on your issue. You need at least 3 of 4 correct on each lesson
-(*The One-Hour Rule* 01–05 and *Reading the Draft* 01–02). Answer keys are never posted
-in GitHub.
+The Human Engineer posts the link to a short Google Form on your onboarding issue. It takes
+about five minutes:
 
-For now the Human Engineer scores quizzes by hand and comments "Quizzes passed (date)" on
-your issue. Signed completion codes, checked automatically, will replace this later.
+- **Three questions** about the *gut and go* and why the One-Hour Rule ends secret action.
+  You need all three right. You may retake it.
+- **Your view:** do you support the goal? There is no wrong answer.
+- **About you:** your GitHub username, state and U.S. congressional district. These stay with
+  the Human Engineer and are never posted in GitHub.
 
-## Step 6 — Explain it back (SPEC-003 §18.1, Part B)
+The form never asks for your name, email, phone or address. Answer keys are never posted
+in GitHub. When you pass, the Human Engineer comments "Readiness Check passed (date)" on your issue.
 
-Answer three questions in your own words and send them privately:
-
-1. The problem PRJ-002 solves, and why a joint rule alone cannot fix it
-2. The four safe-harbor conditions, and why votes stay out of the repository
-3. One real weakness in the draft, and a proposed fix
-
-Part B rewards understanding, not agreement. You may disagree with the draft and still pass.
-
-## Step 7 — Set up your AI assistant (recommended, not required)
+## Step 6 — Set up your AI assistant (recommended, not required)
 
 AI assistants follow the same rule you do: they may draft and review, never approve
 (SPEC-003 §18.3(3)). To set up Claude the way the Human Engineer's is set up:
@@ -109,9 +105,9 @@ AI assistants follow the same rule you do: they may draft and review, never appr
 
 Cursor or another editor is useful at Level 3, when you edit files. It is not required before then.
 
-## Step 8 — Level 1 (Reviewer)
+## Step 7 — Level 1 (Reviewer)
 
-When Steps 4–6 are complete, the Human Engineer adds the `level-1` label, records the grant
+When Steps 4 and 5 are complete, the Human Engineer adds the `level-1` label, records the grant
 (name, level, date; SPEC-003 §18.3(4)) and shares the model language document for review.
 
 ---
@@ -120,7 +116,7 @@ When Steps 4–6 are complete, the Human Engineer adds the `level-1` label, reco
 
 | Level | You may | How you get there |
 |---|---|---|
-| 1. Reviewer | Comment on the model language document | Steps 1–8 |
+| 1. Reviewer | Comment on the model language document | Steps 1–7 |
 | 2. Contributor | Open Review Comment and Proposed Change issues here | Useful, sourced review comments at Level 1; ZIP code and districts sent privately (precinct and party optional) |
 | 3. Proposer | Open pull requests | Useful issues at Level 2 |
 
