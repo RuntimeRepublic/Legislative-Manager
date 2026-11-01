@@ -8,12 +8,15 @@ Nothing here is law, and nothing here becomes a draft until the Human Engineer a
 
 ## How to join (SPEC-003 §18)
 
+**Start at [ONBOARDING.md](ONBOARDING.md).** It is the step-by-step path, and it explains how
+your progress is recorded on a public onboarding issue. The summary below is for reference.
+
 1. **Learn the goal.** Read the free Runtime-Republic Training courses
-   [*The One-Hour Rule*](https://github.com/jhodges07/Runtime-Republic-Training/tree/main/Courses/one-hour-rule)
+   [*The One-Hour Rule*](https://github.com/RuntimeRepublic/Runtime-Republic-Training/tree/main/Courses/one-hour-rule)
    (Lessons 01–05) and
-   [*Reading the Draft*](https://github.com/jhodges07/Runtime-Republic-Training/tree/main/Courses/reading-the-draft)
+   [*Reading the Draft*](https://github.com/RuntimeRepublic/Runtime-Republic-Training/tree/main/Courses/reading-the-draft)
    (Lessons 01–02).
-2. **Take the Readiness Check.** Ask the Human Engineer for the form: short quizzes on the
+2. **Take the Readiness Check.** Open your onboarding issue and ask for the form: short quizzes on the
    lessons, plus three written questions in your own words. You can disagree with the draft
    and still pass; the check rewards understanding.
 3. **Move up by doing good work.**
