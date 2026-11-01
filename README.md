@@ -103,6 +103,7 @@ Later stages may include legal review, public review, and approved publication t
 | [`certifications/`](certifications/) | Manager certification records documenting that Legislative Manager meets Engineering Office readiness requirements for its declared scope. |
 | [`kansas-standards/`](kansas-standards/) | The Kansas Legislative Engineering Library (KLS-001 through KLS-006). These are the binding engineering rules for Kansas packages. |
 | [`poc/`](poc/) | Proof-of-concept materials validating that the KLS library can operate together as a complete package family without drafting real legislation. |
+| [`press/`](press/) | Press releases about the projects, approved by the Human Engineer, free to share as written. |
 | [`projects/`](projects/) | Production legislative projects. Each project contains specifications and, over time, engineered artifact packages for a real subject. |
 | [`prompts/`](prompts/) | Operating prompts and agent instructions used by Legislative Manager and related declared manager surfaces. |
 | [`specifications/`](specifications/) | System-level Kansas engineering specifications that define architecture for Kansas constitutional and legislative engineering. |
