@@ -1,11 +1,11 @@
-# CWC-CE-[NNN] — PRJ-002 Kansas One-Hour Posting Rule: Pre-Draft Engineering Activation (HG-0)
+# CWC-CE-184 — PRJ-002 Kansas One-Hour Posting Rule: Pre-Draft Engineering Activation (HG-0)
 
 **Classification:** Constitutional Work Card — Controlled Execution
 **Issued by:** James A. Hodges, Human Engineer
-**Date issued:** [2026-11-01]
-**Status:** DRAFT — not approved until the Human Engineer records approval in Section 9
-**Card number:** [NNN — assign from the Office register; CWC-CE-183 appears reserved for Bill A work]
-**Governing SPEC:** SPEC-003 v0.3.0 — Kansas One-Hour Posting Rule (number confirmed as SPEC-003: [yes / reassign to SPEC-___])
+**Date issued:** 2026-11-01
+**Status:** Issued — approved by the Human Engineer in Section 10
+**Card number:** CWC-CE-184 (next after CWC-CE-183, reserved for Bill A work)
+**Governing SPEC:** SPEC-003 v0.4.0 — Kansas One-Hour Posting Rule (number confirmed as SPEC-003)
 **Owning Manager:** Legislative Manager (`MGR-LEG`)
 **Declared Peers:** Budget Manager (`MGR-BDG`) — fiscal-note structure only; Publication Manager (`MGR-PUB`) — no work this phase
 **Governing Workflow:** WF-001; **Lifecycle:** STD-008
@@ -14,8 +14,8 @@
 
 ## 1. Engineering Definition (WF-001 §8.0, §8.1)
 
-- **SPEC acceptance (HG-D2):** The Human Engineer accepts SPEC-003 v0.3.0 as ready for Controlled Execution of Phase 1 (Pre-Draft engineering) only.
-- **LOU:** No LOU exists for PRJ-002. The Human Engineer expressly waives the LOU requirement for this card. This waiver is made under Human Engineer authority, not under the trivial/corrective clause of WF-001 §8.0.7, because SPEC-003 already records the engineering intent, scope and recorded decisions (SPEC-003 §2.3) that an LOU would capture. Reason for waiver: [state reason, e.g., schedule; SPEC-003 serves as the definition record].
+- **SPEC acceptance (HG-D2):** The Human Engineer accepts SPEC-003 v0.4.0 as ready for Controlled Execution of Phase 1 (Pre-Draft engineering) only.
+- **LOU:** No LOU exists for PRJ-002. The Human Engineer expressly waives the LOU requirement for this card. This waiver is made under Human Engineer authority, not under the trivial/corrective clause of WF-001 §8.0.7, because SPEC-003 already records the engineering intent, scope and recorded decisions (SPEC-003 §2.3) that an LOU would capture. Reason for waiver: schedule (draft freeze on 2026-11-30); SPEC-003 already records the intent, scope and decisions an LOU would capture and serves as the definition record.
 - AI did not grant this waiver and may not extend it.
 
 ## 2. Objective
@@ -31,7 +31,7 @@ Activate SPEC-003 Phase 1 (Pre-Draft engineering) for PRJ-002 and produce the ma
 5. `KS-NODE-MAP-002` — opt-in local-node map (counties, cities, school districts)
 6. `KS-FISC-NOTE-002` — fiscal-note structure only (KLS-004); no estimates
 7. Citation verification of the sources in SPEC-003 §5.2, §6.1, §6.2 and §17. This card authorizes verification in Phase 1, resolving the conflict between SPEC-003 §3.3 and §16. Unresolved loci remain marked `[TO BE VERIFIED]`.
-8. SPEC-003 maintenance: record this card as Governing Work Card; record confirmed numbering; rename SPEC-003 gates HG-0 / HG-1 to HG-A0 / HG-A1 to avoid conflict with WF-001 HG-1 [accept / decline]
+8. SPEC-003 maintenance: record this card as Governing Work Card; record confirmed numbering; gate rename HG-0 / HG-1 to HG-A0 / HG-A1 declined for now (see Section 9)
 9. Contributor onboarding materials under SPEC-003 §18: `ONBOARDING.md`, onboarding issue template, contributor Claude Project instructions, `CALENDAR.md`. These are process documents, not legislative text.
 
 ## 4. Out of Scope — Forbidden Under This Card
@@ -68,7 +68,7 @@ The card closes on Human Acceptance (HG-3) of the CER.
 |---|---|
 | 2026-11-01 | Card issued; GitHub organization `RuntimeRepublic` set up |
 | 2026-11-01 to 2026-11-07 | Phase 1 sprint (Section 3, items 1–7); onboarding v0 live |
-| 2026-11-08 to 2026-11-09 | Engineering Review; Human Engineer decides on drafting card (HG-A1) |
+| 2026-11-08 to 2026-11-09 | Engineering Review; Human Engineer decides on drafting card (HG-1) |
 
 Dates are targets, not authorizations. A missed date does not extend scope.
 
@@ -82,14 +82,14 @@ Dates are targets, not authorizations. A missed date does not extend scope.
 
 | Decision | Choice |
 |---|---|
-| Layer ID for `RES-002` (SPEC-003 §15.3) | [decide now / defer to `KS-AUTH-MAP-002`] |
-| KLS standard for joint-rule resolutions needed? (§15.4) | [decide now / defer] |
-| Gate rename HG-0/HG-1 → HG-A0/HG-A1 | [accept / decline] |
+| Layer ID for `RES-002` (SPEC-003 §15.3) | Deferred to `KS-AUTH-MAP-002`; decided at HG-1 |
+| KLS standard for joint-rule resolutions needed? (§15.4) | Deferred to `KS-AUTH-MAP-002`; decided at HG-1 |
+| Gate rename HG-0/HG-1 → HG-A0/HG-A1 | Declined for now; the board, calendar and onboarding use HG-0/HG-1. Revisit after the 2026-11-30 draft freeze. |
 
 ## 10. Human Engineer Approval (WF-001 §8.2)
 
 | Decision | Name | Date |
 |---|---|---|
-| [Approve / Return for revision / Reject] | James A. Hodges | [date] |
+| Approve | James A. Hodges | 2026-11-01 |
 
 Silence is not approval.
