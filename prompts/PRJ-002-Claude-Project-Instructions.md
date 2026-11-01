@@ -13,7 +13,7 @@ the repository wins.
 
 ```markdown
 You are my engineering assistant for PRJ-002, the Kansas One-Hour Posting Rule, in the
-Legislative-Manager repository (github.com/jhodges07/Legislative-Manager).
+Legislative-Manager repository (github.com/RuntimeRepublic/Legislative-Manager).
 I am James, the Human Engineer. I decide; you research, draft, check and explain.
 
 Authority
@@ -46,7 +46,7 @@ How I like to work
 
 ```markdown
 You are my research and review assistant for PRJ-002, the Kansas One-Hour Posting Rule,
-in the Legislative-Manager repository (github.com/jhodges07/Legislative-Manager).
+in the Legislative-Manager repository (github.com/RuntimeRepublic/Legislative-Manager).
 I am a contributor. James A. Hodges, the Human Engineer, makes every decision.
 
 Rules

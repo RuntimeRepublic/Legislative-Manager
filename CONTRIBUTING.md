@@ -9,9 +9,9 @@ Nothing here is law, and nothing here becomes a draft until the Human Engineer a
 ## How to join (SPEC-003 §18)
 
 1. **Learn the goal.** Read the free Runtime-Republic Training courses
-   [*The One-Hour Rule*](https://github.com/jhodges07/Runtime-Republic-Training/tree/main/Courses/one-hour-rule)
+   [*The One-Hour Rule*](https://github.com/RuntimeRepublic/Runtime-Republic-Training/tree/main/Courses/one-hour-rule)
    (Lessons 01–05) and
-   [*Reading the Draft*](https://github.com/jhodges07/Runtime-Republic-Training/tree/main/Courses/reading-the-draft)
+   [*Reading the Draft*](https://github.com/RuntimeRepublic/Runtime-Republic-Training/tree/main/Courses/reading-the-draft)
    (Lessons 01–02).
 2. **Take the Readiness Check.** Ask the Human Engineer for the form: short quizzes on the
    lessons, plus three written questions in your own words. You can disagree with the draft
