@@ -19,7 +19,7 @@ find the first unchecked box on their onboarding issue (Step 3).
 | 3 | Open your onboarding issue | The issue (public) | — |
 | 4 | Send private details to the Human Engineer | A "received" note on your issue (no details) | Human Engineer |
 | 5 | Take the Readiness Check | A "Readiness Check passed" note on your issue | Human Engineer |
-| 6 | Set up your AI assistant (recommended) | A checked box on your issue | You (self-reported) |
+| 6 | Set up your AI assistant (recommended; required for Level 2) | A checked box and a one-line comment on your issue | You (self-reported) |
 | 7 | Receive Level 1 | A `level-1` label and a recorded grant | Human Engineer |
 
 Then you move up to Level 2 and Level 3 by doing useful work (SPEC-003 §18.2).
@@ -88,9 +88,11 @@ about five minutes:
 The form never asks for your name, email, phone or address. Answer keys are never posted
 in GitHub. When you pass, the Human Engineer comments "Readiness Check passed (date)" on your issue.
 
-## Step 6 — Set up your AI assistant (recommended, not required)
+## Step 6 — Set up your AI assistant (recommended now; required for Level 2)
 
-AI assistants follow the same rule you do: they may draft and review, never approve
+From Level 2, every contributor works with an AI assistant project connected to this
+repository: Claude or ChatGPT (SPEC-003 §18.4). It is your guide through onboarding and your
+research partner after that. It follows the same rule you do: it may draft and review, never approve
 (SPEC-003 §18.3(3)). To set up Claude the way the Human Engineer's is set up:
 
 1. In Claude, create a Project named `PRJ-002 One-Hour Rule — <your name>`.
@@ -102,6 +104,12 @@ AI assistants follow the same rule you do: they may draft and review, never appr
      `prompts/LegislativeManager.md`, `projects/PRJ-002-Kansas-Legislative-Text-Posting/`, `kansas-standards/`
    - `RuntimeRepublic/Runtime-Republic-Training`: `Courses/one-hour-rule/`, `Courses/reading-the-draft/`
 4. **First message:** "Read ONBOARDING.md and my onboarding issue (#__). Where am I, and what is my next step?"
+
+**Using ChatGPT instead:** create a ChatGPT project, paste the same **Contributor** block into its
+instructions, connect GitHub, and give it the same two repositories.
+
+**When it works:** check Step 6 on your onboarding issue and add a one-line comment saying which
+assistant you use (for example, "Step 6: Claude Project set up"). Never post screenshots of private chats.
 
 Cursor or another editor is useful at Level 3, when you edit files. It is not required before then.
 
@@ -117,7 +125,7 @@ When Steps 4 and 5 are complete, the Human Engineer adds the `level-1` label, re
 | Level | You may | How you get there |
 |---|---|---|
 | 1. Reviewer | Comment on the model language document | Steps 1–7 |
-| 2. Contributor | Open Review Comment and Proposed Change issues here | Useful, sourced review comments at Level 1; ZIP code and districts sent privately (precinct and party optional) |
+| 2. Contributor | Open Review Comment and Proposed Change issues here | Useful, sourced review comments at Level 1; AI assistant project set up (Step 6); ZIP code and districts sent privately (precinct and party optional) |
 | 3. Proposer | Open pull requests | Useful issues at Level 2 |
 
 At every level you propose and the Human Engineer decides. See [CONTRIBUTING.md](CONTRIBUTING.md)

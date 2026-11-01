@@ -15,7 +15,7 @@
 **Related Project:** None (independent of PRJ-001)  
 **Jurisdiction:** State of Kansas  
 **Status:** Active — Phase 1, Pre-Draft engineering (CWC-CE-184); drafting awaits HG-1  
-**Version:** 0.4.1  
+**Version:** 0.5.0  
 **Date:** 2026-11-01  
 
 ---
@@ -306,7 +306,7 @@ Publication is out of scope. `KS-PUB-COMP-002` requires a manifest, member freez
 2. All three layers (joint rule, statute, constitutional amendment) are required until verified otherwise.  
 3. **Open:** SPEC-001 defines no layer ID for joint-rule resolutions; Human Engineer to decide the layer and ID for `RES-002`.  
 4. **Open:** No KLS standard governs joint-rule resolutions; decide whether one is needed.  
-5. **Open:** SPEC number and governing CWC-CE to be issued by the Constitutional Engineering Office.  
+5. **Resolved (2026-11-01):** SPEC number confirmed as SPEC-003; governing card CWC-CE-184.  
 6. **Open:** Hashing or version-identifier method to be named in law or by reference.  
 7. UNBKE is not required.  
 
@@ -356,7 +356,7 @@ The required reading is Runtime-Republic Training, *The One-Hour Rule* Lessons 0
 | Level | May | Granted by | Requires |
 |---|---|---|---|
 | 1. Reviewer | Read the model language document and comment on its clauses | Human Engineer shares the document | Readiness Check passed |
-| 2. Contributor | Open issues (Review Comment or Proposed Change template); reading needs no grant because this repository is public | Human Engineer records the person's GitHub username at Level 2 | Level 1, plus useful, sourced review comments |
+| 2. Contributor | Open issues (Review Comment or Proposed Change template); reading needs no grant because this repository is public | Human Engineer records the person's GitHub username at Level 2 | Level 1, plus useful, sourced review comments, plus a connected AI assistant project (§18.4) |
 | 3. Proposer | Propose changes by branch and pull request | Human Engineer grants GitHub write access | Level 2, plus useful issues |
 
 At every level the contributor proposes and the Human Engineer decides. Only the Human Engineer merges, approves, or advances lifecycle state (WF-001, STD-008).
@@ -369,6 +369,13 @@ At every level the contributor proposes and the Human Engineer decides. Only the
 4. Each grant and removal is recorded by the Human Engineer, with name, level and date.
 5. This repository is public by design. Issues and pull requests from people not recorded at Level 2 or 3 may be closed by the Human Engineer without review.
 
+### 18.4 AI Assistant Project (Level 2 and up)
+
+1. From Level 2, each contributor keeps an AI assistant project (a Claude Project or a ChatGPT project) connected to this repository's content on GitHub and set up with the Contributor instructions in `prompts/PRJ-002-Claude-Project-Instructions.md`.
+2. Evidence: the contributor checks Step 6 on their onboarding issue and comments which assistant they use. No screenshots of private chats are required.
+3. The assistant follows §18.3(3): it may research, draft non-operative material and review; it never approves.
+4. At Level 1 the AI assistant project is recommended, not required.
+
 ## Version History
 
 | Version | Date | Summary |
@@ -378,3 +385,4 @@ At every level the contributor proposes and the Human Engineer decides. Only the
 | 0.3.0 | 2026-10-31 | Section 18: Level 2 redefined for a public repository (no read grant; recorded username may open issues); Condition 5 added (Human Engineer's direction). No operative text. |
 | 0.4.0 | 2026-11-01 | §18.1 Readiness Check simplified: 3 knowledge questions (all correct, retakes allowed) plus an unscored view-and-location part; *Reading the Draft* now recommended (Human Engineer's direction). No operative text. |
 | 0.4.1 | 2026-11-01 | Recorded CWC-CE-184 (HG-0) as Governing Work Card; status set to Active, Phase 1 (CWC-CE-184 §3 item 8). SPEC number confirmed as SPEC-003. No operative text. |
+| 0.5.0 | 2026-11-01 | §18.4 added: a connected AI assistant project (Claude or ChatGPT) is required from Level 2; §15 item 5 marked resolved (Human Engineer's direction). No operative text. |
