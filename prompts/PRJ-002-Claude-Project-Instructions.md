@@ -7,6 +7,9 @@ instructions field, then link this repository as Project knowledge.
 These instructions sit under `prompts/LegislativeManager.md` and SPEC-003. If they conflict,
 the repository wins.
 
+The **Contributor** block also works in a ChatGPT project: paste it into the project's instructions
+and connect GitHub. From Level 2, a project set up this way is required (SPEC-003 §18.4).
+
 ---
 
 ## Human Engineer (James A. Hodges)

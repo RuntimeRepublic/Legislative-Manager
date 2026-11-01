@@ -23,7 +23,7 @@ your progress is recorded on a public onboarding issue. The summary below is for
 | Level | You may | How you get there |
 |---|---|---|
 | 1. Reviewer | Comment on the model language document | Pass the Readiness Check |
-| 2. Contributor | Open issues here | Useful, sourced review comments at Level 1 |
+| 2. Contributor | Open issues here | Useful, sourced review comments at Level 1, and an AI assistant project set up |
 | 3. Proposer | Open pull requests | Useful issues at Level 2 |
 
 This repository is public, so anyone can read it. Issues and pull requests from people
@@ -42,7 +42,8 @@ not yet at Level 2 or 3 may be closed without review.
 
 ## Using an AI assistant
 
-You are welcome to use Claude or another assistant. It follows the same rule you do:
+From Level 2, an AI assistant project (Claude or ChatGPT) connected to this repository is required
+(SPEC-003 §18.4); before that it is recommended. It follows the same rule you do:
 it may draft and review, never approve. To set up Claude:
 
 1. Create a Claude Project (any plan, including Free).
