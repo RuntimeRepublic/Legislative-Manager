@@ -7,6 +7,7 @@ Anyone may share these releases as written. Quote them, link to them, and credit
 
 | Date | Project | Release |
 |---|---|---|
+| 2026-11-01 | PRJ-002 | [Day One: Building in the Open](2026-11-01-prj-002-day-one-building-in-the-open.md) |
 | 2026-11-01 | PRJ-002 | [Kansans Launch Open, Public Effort to Draft the "One-Hour Rule"](2026-11-01-prj-002-one-hour-rule-launch.md) |
 
 ## Adding a release
