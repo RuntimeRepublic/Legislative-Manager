@@ -6,7 +6,7 @@
 **Authority:** Constitutional Engineering Office  
 **Owning Manager:** Legislative Manager (`MGR-LEG`)  
 **Project ID:** PRJ-002  
-**Governing Work Card:** `[PENDING — NO CWC-CE ISSUED]`  
+**Governing Work Card:** CWC-CE-184 — PRJ-002 HG-0 activation (issued 2026-11-01)  
 **Governing Architecture:** ARCH-001; ARCH-002; ARCH-003; ARCH-004  
 **Governing Policy:** POL-001  
 **Governing Workflow:** WF-001  
@@ -14,8 +14,8 @@
 **Governing Kansas Specification:** SPEC-001  
 **Related Project:** None (independent of PRJ-001)  
 **Jurisdiction:** State of Kansas  
-**Status:** Proposed — Engineering Phase (Pre-Draft), awaiting CWC-CE  
-**Version:** 0.4.0  
+**Status:** Active — Phase 1, Pre-Draft engineering (CWC-CE-184); drafting awaits HG-1  
+**Version:** 0.4.1  
 **Date:** 2026-11-01  
 
 ---
@@ -377,3 +377,4 @@ At every level the contributor proposes and the Human Engineer decides. Only the
 | 0.2.0 | 2026-10-30 | Added Section 18, Contributor Readiness and Access (Human Engineer's direction). No operative text. |
 | 0.3.0 | 2026-10-31 | Section 18: Level 2 redefined for a public repository (no read grant; recorded username may open issues); Condition 5 added (Human Engineer's direction). No operative text. |
 | 0.4.0 | 2026-11-01 | §18.1 Readiness Check simplified: 3 knowledge questions (all correct, retakes allowed) plus an unscored view-and-location part; *Reading the Draft* now recommended (Human Engineer's direction). No operative text. |
+| 0.4.1 | 2026-11-01 | Recorded CWC-CE-184 (HG-0) as Governing Work Card; status set to Active, Phase 1 (CWC-CE-184 §3 item 8). SPEC number confirmed as SPEC-003. No operative text. |
