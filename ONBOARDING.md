@@ -1,4 +1,5 @@
 # Onboarding — Join PRJ-002, the Kansas One-Hour Posting Rule
+Work board: https://github.com/orgs/RuntimeRepublic/projects/1
 
 **Status:** v0 (bootstrap). Some steps are checked by hand until automation is built.
 **Governed by:** SPEC-003 §18 (Contributor Readiness and Access). If this page and SPEC-003 conflict, SPEC-003 wins.
