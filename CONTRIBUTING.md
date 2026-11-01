@@ -11,14 +11,13 @@ Nothing here is law, and nothing here becomes a draft until the Human Engineer a
 **Start at [ONBOARDING.md](ONBOARDING.md).** It is the step-by-step path, and it explains how
 your progress is recorded on a public onboarding issue. The summary below is for reference.
 
-1. **Learn the goal.** Read the free Runtime-Republic Training courses
+1. **Learn the goal.** Read the free Runtime-Republic Training course
    [*The One-Hour Rule*](https://github.com/RuntimeRepublic/Runtime-Republic-Training/tree/main/Courses/one-hour-rule)
-   (Lessons 01–05) and
-   [*Reading the Draft*](https://github.com/RuntimeRepublic/Runtime-Republic-Training/tree/main/Courses/reading-the-draft)
-   (Lessons 01–02).
-2. **Take the Readiness Check.** Open your onboarding issue and ask for the form: short quizzes on the
-   lessons, plus three written questions in your own words. You can disagree with the draft
-   and still pass; the check rewards understanding.
+   (Lessons 01–05). [*Reading the Draft*](https://github.com/RuntimeRepublic/Runtime-Republic-Training/tree/main/Courses/reading-the-draft)
+   (Lessons 01–02) is recommended.
+2. **Take the Readiness Check.** Open your onboarding issue and you'll get a link to a
+   five-minute form: three questions, whether you support the goal, and your state and
+   congressional district (kept private).
 3. **Move up by doing good work.**
 
 | Level | You may | How you get there |

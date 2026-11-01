@@ -15,8 +15,8 @@
 **Related Project:** None (independent of PRJ-001)  
 **Jurisdiction:** State of Kansas  
 **Status:** Proposed — Engineering Phase (Pre-Draft), awaiting CWC-CE  
-**Version:** 0.3.0  
-**Date:** 2026-10-31  
+**Version:** 0.4.0  
+**Date:** 2026-11-01  
 
 ---
 
@@ -342,14 +342,14 @@ Outside contributors (reviewers who are not the Human Engineer) are admitted to 
 
 ### 18.1 Readiness Check
 
-A person is ready for Level 1 access when they pass both parts:
+A person is ready for Level 1 access when they complete the Readiness Check form:
 
 | Part | Requirement | Scored by |
 |---|---|---|
-| A. Lesson quizzes | At least 3 of 4 correct on each of: Runtime-Republic Training, *The One-Hour Rule* Lessons 01–05 and *Reading the Draft* Lessons 01–02 | The quiz form, automatically |
-| B. Explain it back | A pass on three written questions: (1) the problem PRJ-002 solves and why a joint rule alone cannot fix it; (2) the four safe-harbor conditions and why votes stay out of the repository; (3) one real weakness in the draft and a proposed fix | Human Engineer, using the scoring guide kept with the Readiness Check form |
+| A. Knowledge | All 3 questions correct: what a "gut and go" is, why it is a problem for the public, and why the One-Hour Rule ends secret action on bill text. Retakes are allowed. | The quiz form, automatically |
+| B. View and location | Says whether they support the goal, and gives their GitHub username, state and U.S. congressional district | Not scored; read by the Human Engineer |
 
-Part B rewards understanding, not agreement: a candidate may disagree with the draft and still pass. The answer keys and scoring guide are kept with the Human Engineer's Readiness Check form, not in this repository.
+The required reading is Runtime-Republic Training, *The One-Hour Rule* Lessons 01–05; *Reading the Draft* is recommended. The answer key and Part B answers are kept with the Human Engineer's Readiness Check form, never in this repository.
 
 ### 18.2 Access Levels
 
@@ -376,3 +376,4 @@ At every level the contributor proposes and the Human Engineer decides. Only the
 | 0.1.0 | 2026-10-30 | Proposed project specification for PRJ-002; awaiting CWC-CE. No operative text. |
 | 0.2.0 | 2026-10-30 | Added Section 18, Contributor Readiness and Access (Human Engineer's direction). No operative text. |
 | 0.3.0 | 2026-10-31 | Section 18: Level 2 redefined for a public repository (no read grant; recorded username may open issues); Condition 5 added (Human Engineer's direction). No operative text. |
+| 0.4.0 | 2026-11-01 | §18.1 Readiness Check simplified: 3 knowledge questions (all correct, retakes allowed) plus an unscored view-and-location part; *Reading the Draft* now recommended (Human Engineer's direction). No operative text. |
