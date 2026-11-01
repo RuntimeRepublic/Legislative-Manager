@@ -63,6 +63,13 @@ districts, enter your own address in the U.S. Census Bureau's
 and report only your ZIP code, U.S. House district, Kansas Senate district and Kansas House
 district. Never send or post your street address.
 
+At Level 2 you may also share two **optional** details. Skipping them never affects your access.
+
+| Optional | Why we ask |
+|---|---|
+| Your voting precinct, as shown on your own voter registration (Kansas VoterView, linked from your county election office) | To organize local outreach. Precincts change, so report what your registration says today. |
+| Political party: Republican, Democrat, Libertarian, Unaffiliated, Other, or "prefer not to say" | PRJ-002 is nonpartisan. Party is used only in totals (for example, "reviewers are 40% R, 35% D, 25% unaffiliated") to show balance. It is never used for access, and it is never shown in GitHub as a team, label or note about you. |
+
 The Human Engineer will comment "Private details received" on your issue. Nothing more.
 
 ## Step 5 — Lesson quizzes (SPEC-003 §18.1, Part A)
@@ -113,7 +120,7 @@ When Steps 4–6 are complete, the Human Engineer adds the `level-1` label, reco
 | Level | You may | How you get there |
 |---|---|---|
 | 1. Reviewer | Comment on the model language document | Steps 1–8 |
-| 2. Contributor | Open Review Comment and Proposed Change issues here | Useful, sourced review comments at Level 1; ZIP code and districts sent privately |
+| 2. Contributor | Open Review Comment and Proposed Change issues here | Useful, sourced review comments at Level 1; ZIP code and districts sent privately (precinct and party optional) |
 | 3. Proposer | Open pull requests | Useful issues at Level 2 |
 
 At every level you propose and the Human Engineer decides. See [CONTRIBUTING.md](CONTRIBUTING.md)
