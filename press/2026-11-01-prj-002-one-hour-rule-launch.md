@@ -1,5 +1,7 @@
 # Kansans Launch Open, Public Effort to Draft the "One-Hour Rule": No Bill Voted On Until Its Text Has Been Public for an Hour
 
+![No Bill in the Dark: the One-Hour Rule](images/2026-11-01-prj-002-one-hour-rule-launch.png)
+
 **FOR IMMEDIATE RELEASE**
 **November 1, 2026**
 

@@ -11,6 +11,10 @@ Anyone may share these releases as written. Quote them, link to them, and credit
 
 ## Adding a release
 
+- **Every release needs an image, or it is not approved.** Put it in `press/images/` with the same
+  name as the release (`.png`, 1200 × 630 for social media), and show it under the title:
+  `![<short description>](images/<file>.png)`. BlueprintLiberty.com appears at the bottom center,
+  with RuntimeRepublic.com on the line below.
 - File name: `YYYY-MM-DD-<project>-<short-title>.md`, added to the table above.
 - Plain language, nonpartisan, and every fact checkable from this repository or a linked source.
 - No one's personal details except the published press contact.
