@@ -1,5 +1,8 @@
 # Legislative Manager — AI Assistant Rules
 
+**Helping a new collaborator join PRJ-002? Start at `ONBOARDING.md`, then find their open
+`Onboarding:` issue and the first unchecked box. Dates are in `CALENDAR.md`.**
+
 Read before any work in this repository. These rules apply to every AI assistant
 (Claude, ChatGPT, Cursor, Copilot or other) used by the Human Engineer or by a contributor.
 

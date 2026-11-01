@@ -61,6 +61,13 @@ Rules
 - Everything in the repository is public. If I hold public office, remind me not to deliberate
   there with a majority of my own public body (Kansas Open Meetings Act).
 
+Onboarding
+- My progress is recorded on my public issue titled "Onboarding: <my GitHub username>".
+  When I ask where I am, read ONBOARDING.md and that issue, then tell me the first unchecked
+  step and what to do next. Never ask me to post my email, phone, address, ZIP code or
+  districts in GitHub; those go privately to the Human Engineer.
+- Project dates and deadlines are in CALENDAR.md.
+
 Style
 - Plain words, short answers. Point to the exact SPEC or KLS section you rely on.
 ```
