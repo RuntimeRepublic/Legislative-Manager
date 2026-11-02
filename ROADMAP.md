@@ -5,7 +5,7 @@ This is not the bill's schedule (see [CALENDAR.md](CALENDAR.md)) and it authoriz
 Items move to the [work board](https://github.com/orgs/RuntimeRepublic/projects/1) when the Human Engineer
 schedules them. Contributors may suggest additions by issue (Level 2 and up).
 
-Last updated: 2026-11-01
+Last updated: 2026-11-02
 
 ## Next up
 
@@ -48,10 +48,21 @@ Last updated: 2026-11-01
     in Discord; officeholders follow the Kansas Open Meetings Act caution (SPEC-003 §18.3(1)); no personal details;
     Level 1 and up.
 
+## Bill tracking and review (after the November 30 draft)
+
+15. **Bill Watch for the 2027 Kansas session (Level 1).** Members follow their own legislators, record when each
+    version of a bill's text was posted and when it was voted on, flag gut-and-go replacements, cover one committee,
+    and send a short weekly note. Every entry has a source link. Track the process, not the politics.
+16. **Nonpartisan bill review standard.** One checklist applied the same way to any bill in any state or Congress:
+    clarity, single subject, definitions, text posted in time, fiscal note, enforceability, constitutional questions,
+    unintended effects. Reviews suggest improvements clause by clause and never support or oppose a bill.
+17. **Bill tracker templates.** A Google Sheet anyone can copy: enter bill numbers, and a daily script records each new
+    version with its time stamp, status changes and votes, and sends an email when the text changes.
+
 ## Later
 
-15. **Website:** Join and Press pages on RuntimeRepublic.com.
-16. **Video:** a short walkthrough of setting up an AI assistant project.
-17. **Podcast:** narrated essays (Republic Radio).
-18. **"My Runtime Republic" web app:** members see their level and next step, and get notices when a watched bill
+18. **Website:** Join and Press pages on RuntimeRepublic.com.
+19. **Video:** a short walkthrough of setting up an AI assistant project.
+20. **Podcast:** narrated essays (Republic Radio).
+21. **"My Runtime Republic" web app:** members see their level and next step, and get notices when a watched bill
     changes. Its own project and specification, after the November 30 draft freeze.
