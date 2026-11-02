@@ -8,7 +8,7 @@ Nothing here is law, and nothing here becomes a draft until the Human Engineer a
 
 ## How to join (SPEC-003 §18)
 
-**Start at [ONBOARDING.md](ONBOARDING.md).** To invite a friend, use [INVITE.md](INVITE.md). It is the step-by-step path, and it explains how
+**Start at [ONBOARDING.md](ONBOARDING.md).** To invite a friend, use [INVITE.md](INVITE.md). Planned improvements are in [ROADMAP.md](ROADMAP.md). It is the step-by-step path, and it explains how
 your progress is recorded on a public onboarding issue. The summary below is for reference.
 
 1. **Learn the goal.** Read the free Runtime-Republic Training course
