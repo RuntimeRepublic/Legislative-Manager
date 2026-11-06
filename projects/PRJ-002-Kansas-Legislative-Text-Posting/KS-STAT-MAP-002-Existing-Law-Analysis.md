@@ -7,7 +7,7 @@
 **Governing Work Card:** CWC-CE-184  
 **Governing Standard:** KLS-003 — Kansas Statutory Revision Engineering Standard  
 **Lifecycle state:** Proposed  
-**Version:** 0.1.0  
+**Version:** 0.1.1  
 **Effective Date:** 2026-11-06  
 **Classification:** Non-operative existing-law analysis — not amendatory text  
 
@@ -31,8 +31,8 @@ KLS-003 requires existing-law analysis before revision drafting. This map identi
 
 | Field | Content |
 |---|---|
-| Existing law (located) | Defines “meeting” for the open meetings act as any gathering or assembly in person or through telephone or any other medium for interactive communication by a majority of the membership of a public body or agency subject to the act for the purpose of discussing the business or affairs of that body or agency |
-| Source | [K.S.A. 75-4317a (Justia 2017 reprint)](https://law.justia.com/codes/kansas/2017/chapter-75/article-43/section-75-4317a/); official revisor locus `[TO BE VERIFIED]` if a ksrevisor.gov section URL is preferred for package freeze |
+| Existing law (located) | Defines “meeting” for the open meetings act as any gathering or assembly in person or through the use of a telephone or any other medium for interactive communication by a majority of the membership of a public body or agency subject to this act for the purpose of discussing the business or affairs of the public body or agency |
+| Source | [K.S.A. 75-4317a (Kansas Revisor)](https://www.ksrevisor.gov/statutes/chapters/ch75/075_043_0017a.html) — “meeting” definition confirmed against Revisor text 2026-11-06 |
 | Likely later action (SPEC-003) | Amend to add repository safe harbor — **not drafted here** |
 | Open questions | Exact safe-harbor wording; interaction with serial-communication rules in 75-4318(f); risk that a safe harbor could be misread as permitting deliberation without notice (SPEC-003 R-006) |
 
@@ -102,3 +102,4 @@ No dependency edges are invented beyond the above identified relationships.
 | Version | Date | Summary |
 |---|---|---|
 | 0.1.0 | 2026-11-06 | Proposed KLS-003 existing-law map for SPEC-003 §6.1–§6.2 loci under CWC-CE-184 §3 item 2. |
+| 0.1.1 | 2026-11-06 | Replaced Justia 2017 link for K.S.A. 75-4317a with Kansas Revisor URL; confirmed “meeting” definition against Revisor text. |

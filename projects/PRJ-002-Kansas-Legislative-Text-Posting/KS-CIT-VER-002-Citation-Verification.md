@@ -4,7 +4,7 @@
 **Project:** PRJ-002  
 **Governing Work Card:** CWC-CE-184 §3 item 7  
 **Lifecycle state:** Proposed  
-**Version:** 0.1.0  
+**Version:** 0.1.1  
 **Effective Date:** 2026-11-06  
 **Classification:** Verification record — not operative legal text  
 
@@ -27,7 +27,7 @@ CWC-CE-184 authorizes Phase-1 verification and resolves the SPEC-003 §3.3 vs §
 
 | Citation | Verification action | Result |
 |---|---|---|
-| K.S.A. 75-4317a | Retrieved statutory text via Justia 2017 reprint; confirms “meeting” definition | **Located** — [Justia 75-4317a](https://law.justia.com/codes/kansas/2017/chapter-75/article-43/section-75-4317a/). Prefer Revisor HTML pin for freeze: **`[TO BE VERIFIED]`** if required |
+| K.S.A. 75-4317a | Retrieved Revisor page; confirmed “meeting” definition against Revisor text | **Verified located** — [Revisor 75-4317a](https://www.ksrevisor.gov/statutes/chapters/ch75/075_043_0017a.html) |
 | K.S.A. 75-4318(b), (f) | Retrieved Revisor page for full section | **Located** — [Revisor 75-4318](https://www.ksrevisor.gov/statutes/chapters/ch75/075_043_0018.html). (b) notice; (f) serial interactive communications; (g)(4) chamber-rules exception also material |
 | K.S.A. 45-215 et seq.; 45-217 | Retrieved Revisor pages | **Located** — [45-215](https://www.ksrevisor.gov/statutes/chapters/ch45/045_002_0015.html), [45-217](https://ksrevisor.gov/statutes/chapters/ch45/045_002_0017.html) |
 | Retention loci for repository permanence | Searched chapter 45 retention definitions | **Partial** — [45-402](https://www.ksrevisor.gov/statutes/chapters/ch45/045_004_0002.html) defines government records / retention schedules conceptually; exact schedule locus for this repository **`[TO BE VERIFIED]`** |
@@ -54,7 +54,7 @@ CWC-CE-184 authorizes Phase-1 verification and resolves the SPEC-003 §3.3 vs §
 |---|---|---|
 | `https://www.kslegislature.gov/li/s/pdf/joint_rules.pdf` | HTTP fetch | **Broken / 404** — replace with HCR 5003 enrolled PDF above for future SPEC maintenance. Marked **`[TO BE VERIFIED]`** as outdated URL |
 | [KLRD KOMA](https://klrd.gov/kansas-open-meetings-act/) | Fetched | **Located / usable** secondary summary |
-| [Justia 75-4317a](https://law.justia.com/codes/kansas/2017/chapter-75/article-43/section-75-4317a/) | Fetched | **Located**; vintage 2017 reprint — confirm currency against Revisor before freeze |
+| [Revisor 75-4317a](https://www.ksrevisor.gov/statutes/chapters/ch75/075_043_0017a.html) | Fetched 2026-11-06 | **Verified located**; “meeting” definition confirmed |
 | [Art. 14 § 1 Revisor](https://ksrevisor.gov/kanconst/093_014_0001.html) | Fetched | **Located** |
 | [Ballotpedia Art. 2](https://ballotpedia.org/Article_2,_Kansas_Constitution) | Not relied on as primary | Secondary only — prefer Revisor for art. 2 §§ 8 and 14 |
 | [Revisor KOMA/KORA memo PDF 2025-01-21](https://kslegislature.gov/li/b2025_26/committees/ctte_h_trnsprt_1/documents/testimony/20250121_02.pdf) | Not re-fetched in this cycle | **`[TO BE VERIFIED]`** — URL not independently confirmed in this CER cycle |
@@ -66,9 +66,9 @@ CWC-CE-184 authorizes Phase-1 verification and resolves the SPEC-003 §3.3 vs §
 | Category | Count |
 |---|---|
 | Primary constitutional cites verified at Revisor | 3 |
-| Primary statutory cites located | 75-4317a, 75-4318, 45-215, 45-217 |
+| Primary statutory cites verified/located at Revisor | 75-4317a (verified), 75-4318, 45-215, 45-217 |
 | Joint rules 1, 3(f), 4(k) located | 3 |
-| Items remaining `[TO BE VERIFIED]` | New CAP placement; retention schedule locus; Revisor/enrollment/opt-in section numbers; House rules interaction; §17 joint_rules.pdf URL replacement in SPEC; 2025-01-21 memo URL; preferred Revisor pin for 75-4317a |
+| Items remaining `[TO BE VERIFIED]` | New CAP placement; retention schedule locus; Revisor/enrollment/opt-in section numbers; House rules interaction; §17 joint_rules.pdf URL replacement in SPEC; 2025-01-21 memo URL |
 
 ---
 
@@ -77,3 +77,4 @@ CWC-CE-184 authorizes Phase-1 verification and resolves the SPEC-003 §3.3 vs §
 | Version | Date | Summary |
 |---|---|---|
 | 0.1.0 | 2026-11-06 | Phase-1 citation verification under CWC-CE-184 §3 item 7. |
+| 0.1.1 | 2026-11-06 | Replaced Justia 75-4317a with Kansas Revisor URL; confirmed “meeting” definition; removed Revisor-pin `[TO BE VERIFIED]` from remaining-items count. |
