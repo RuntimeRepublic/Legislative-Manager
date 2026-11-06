@@ -6,7 +6,7 @@
 **Governing SPEC:** SPEC-003 §§9–11  
 **Governing Work Card:** CWC-CE-184  
 **Lifecycle state:** Proposed  
-**Version:** 0.1.0  
+**Version:** 0.1.1  
 **Effective Date:** 2026-11-06  
 **Classification:** Reference only — does not modify AGCL, NBBF, or CDT repositories  
 
@@ -16,20 +16,17 @@ PRJ-002 may reference these controls. Ownership remains with their control repos
 
 ## 1. AGCL controls (00F–00J)
 
-Titles below are taken from filenames in the AGCL-Control-Documents tree available to the Human Engineer’s workspace. Exact clause-level citations for package freeze remain open where noted.
+Titles match the control filenames in [RuntimeRepublic/AGCL-Control-Documents](https://github.com/RuntimeRepublic/AGCL-Control-Documents). Exact clause-level citations for package freeze remain open where noted. Commit SHA pins remain `[TO BE VERIFIED]`.
 
-| Control | Title (from control filename) | Why SPEC-003 requires affinity | Reference posture |
-|---|---|---|---|
-| 00F | Uncertainty and Black-Swan Stress Control | Emergency path and repository outage handling (SPEC-003 §9; R-005) | Reference only |
-| 00G | Transparency and Public Ledger Control | Public, permanent, verifiable record of legislative text | Reference only |
-| 00H | Constitutional Compatibility Control | Joint rule, statute, and CAP must remain constitutionally coherent | Reference only |
-| 00I | Enforcement and Remedy Control | Effect of acting on unposted text must be explicit | Reference only |
-| 00J | System Amendment and Version Control | Version identifiers and supersession of posted text | Reference only |
+| Control | Title | Public file | Why SPEC-003 requires affinity | Reference posture |
+|---|---|---|---|---|
+| 00F | Uncertainty and Black-Swan Stress Control | [00F_Uncertainty_and_Black-Swan_Stress_Control.txt](https://github.com/RuntimeRepublic/AGCL-Control-Documents/blob/main/00F_Uncertainty_and_Black-Swan_Stress_Control.txt) | Emergency path and repository outage handling (SPEC-003 §9; R-005) | Reference only |
+| 00G | Transparency and Public Ledger Control | [00G_Transparency_and_Public_Ledger_Control.txt](https://github.com/RuntimeRepublic/AGCL-Control-Documents/blob/main/00G_Transparency_and_Public_Ledger_Control.txt) | Public, permanent, verifiable record of legislative text | Reference only |
+| 00H | Constitutional Compatibility Control | [00H_Constitutional_Compatibility_Control.txt](https://github.com/RuntimeRepublic/AGCL-Control-Documents/blob/main/00H_Constitutional_Compatibility_Control.txt) | Joint rule, statute, and CAP must remain constitutionally coherent | Reference only |
+| 00I | Enforcement and Remedy Control | [00I_Enforcement_and_Remedy_Control.txt](https://github.com/RuntimeRepublic/AGCL-Control-Documents/blob/main/00I_Enforcement_and_Remedy_Control.txt) | Effect of acting on unposted text must be explicit | Reference only |
+| 00J | System Amendment and Version Control | [00J_System_Amendment_and_Version_Control.txt](https://github.com/RuntimeRepublic/AGCL-Control-Documents/blob/main/00J_System_Amendment_and_Version_Control.txt) | Version identifiers and supersession of posted text | Reference only |
 
-**Workspace path evidence (not a publication claim):**  
-`X:\GitHub\AGCL-Control-Documents\AGCL-Control-Documents\00F_Uncertainty_and_Black-Swan_Stress_Control.txt` (and sibling `00G`…`00J` files).
-
-**Open:** Canonical public GitHub URLs / commit SHAs for each control file at package freeze — `[TO BE VERIFIED]` if a pin is required later.
+Repository: [https://github.com/RuntimeRepublic/AGCL-Control-Documents](https://github.com/RuntimeRepublic/AGCL-Control-Documents)
 
 ---
 
@@ -41,7 +38,8 @@ Titles below are taken from filenames in the AGCL-Control-Documents tree availab
 | Authority boundaries | Opt-in local nodes retain their own authority; state package does not silently annex local power | Reference only |
 | Transparency of burdens | Operating cost disclosed structurally in fiscal note; **no estimates in this phase** | Reference only |
 
-**Repository evidence:** Local tree `X:\GitHub\NBBF-Control-Documents\NBBF-Control-Documents\README.md` states node-scoped budgeting, authority boundaries, fiscal exit conditions, sunset/renewal mechanics. Public remote URL / commit pin for citation freeze `[TO BE VERIFIED]`.
+**Repository:** [https://github.com/RuntimeRepublic/NBBF-Control-Documents](https://github.com/RuntimeRepublic/NBBF-Control-Documents)  
+Commit SHA pin for citation freeze: `[TO BE VERIFIED]`.
 
 ---
 
@@ -57,7 +55,7 @@ SPEC-003 §11 requires CDT-ready metadata, not CDT runtime.
 | Artifact | RES, BILL, AMD, MAP, CAP, DEF, FISC, PUB | Project IDs only |
 | Version-of edge | Each posted text version → its measure | Method `[TO BE VERIFIED]` (see DEF-002-003) |
 
-**CDT repository:** Local workspace `X:\GitHub\CDT-Control-Documents` — authoritative public pin `[TO BE VERIFIED]`. No CDT files were modified.
+**CDT repository:** not publicly reachable — public URL remains `[TO BE VERIFIED]`. No CDT files were modified.
 
 ---
 
@@ -74,3 +72,4 @@ SPEC-003 §11 requires CDT-ready metadata, not CDT runtime.
 | Version | Date | Summary |
 |---|---|---|
 | 0.1.0 | 2026-11-06 | Proposed control reference map under CWC-CE-184 §3 item 4. |
+| 0.1.1 | 2026-11-06 | Replaced local paths with public GitHub links for AGCL 00F–00J and NBBF; CDT remains not publicly reachable `[TO BE VERIFIED]`. |
