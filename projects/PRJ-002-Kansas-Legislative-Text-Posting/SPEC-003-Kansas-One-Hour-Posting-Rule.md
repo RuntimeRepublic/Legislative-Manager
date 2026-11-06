@@ -15,8 +15,8 @@
 **Related Project:** None (independent of PRJ-001)  
 **Jurisdiction:** State of Kansas  
 **Status:** Active — Phase 1, Pre-Draft engineering (CWC-CE-184); drafting awaits HG-1  
-**Version:** 0.5.1  
-**Date:** 2026-11-03  
+**Version:** 0.5.2  
+**Date:** 2026-11-06  
 
 ---
 
@@ -327,7 +327,7 @@ Publication is out of scope. `KS-PUB-COMP-002` requires a manifest, member freez
 
 ## 17. Sources Located (Not Yet Verified Under Authorized Research)
 
-- [Kansas Legislature Joint Rules, 2025–2026](https://www.kslegislature.gov/li/s/pdf/joint_rules.pdf)  
+- [Kansas Legislature Joint Rules, 2025–2026 (HCR 5003 enrolled)](https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26%2Fyear1%2Fready_for_publication%2Fhcr_5003%2Fhcr5003_enrolled.pdf)  
 - [KLRD: Kansas Open Meetings Act](https://klrd.gov/kansas-open-meetings-act/)  
 - [K.S.A. 75-4317a](https://law.justia.com/codes/kansas/2017/chapter-75/article-43/section-75-4317a/)  
 - [Kansas Constitution, Article 14, Section 1](https://ksrevisor.gov/kanconst/093_014_0001.html)  
@@ -387,3 +387,4 @@ At every level the contributor proposes and the Human Engineer decides. Only the
 | 0.4.1 | 2026-11-01 | Recorded CWC-CE-184 (HG-0) as Governing Work Card; status set to Active, Phase 1 (CWC-CE-184 §3 item 8). SPEC number confirmed as SPEC-003. No operative text. |
 | 0.5.0 | 2026-11-01 | §18.4 added: a connected AI assistant project (Claude or ChatGPT) is required from Level 2; §15 item 5 marked resolved (Human Engineer's direction). No operative text. |
 | 0.5.1 | 2026-11-03 | §18.4(1): Grok added as an accepted AI assistant project (Human Engineer's direction). No operative text. |
+| 0.5.2 | 2026-11-06 | §17: replace broken joint_rules.pdf URL with HCR 5003 enrolled PDF for 2025–2026 Joint Rules (CWC-CE-184 §3 item 8). No operative text. |
