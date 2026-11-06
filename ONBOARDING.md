@@ -91,7 +91,7 @@ in GitHub. When you pass, the Human Engineer comments "Readiness Check passed (d
 ## Step 6 — Set up your AI assistant (recommended now; required for Level 2)
 
 From Level 2, every contributor works with an AI assistant project connected to this
-repository: Claude or ChatGPT (SPEC-003 §18.4). It is your guide through onboarding and your
+repository: Claude, ChatGPT or Grok (SPEC-003 §18.4). It is your guide through onboarding and your
 research partner after that. It follows the same rule you do: it may draft and review, never approve
 (SPEC-003 §18.3(3)). To set up Claude the way the Human Engineer's is set up:
 
@@ -107,6 +107,10 @@ research partner after that. It follows the same rule you do: it may draft and r
 
 **Using ChatGPT instead:** create a ChatGPT project, paste the same **Contributor** block into its
 instructions, connect GitHub, and give it the same two repositories.
+
+**Using Grok instead:** create a Grok project, paste the same **Contributor** block into its
+instructions, connect GitHub (on the web at grok.com/connectors; in the app, Settings → Connectors),
+and give it access to the same two repositories.
 
 **When it works:** check Step 6 on your onboarding issue and add a one-line comment saying which
 assistant you use (for example, "Step 6: Claude Project set up"). Never post screenshots of private chats.

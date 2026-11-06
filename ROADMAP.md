@@ -5,7 +5,7 @@ This is not the bill's schedule (see [CALENDAR.md](CALENDAR.md)) and it authoriz
 Items move to the [work board](https://github.com/orgs/RuntimeRepublic/projects/1) when the Human Engineer
 schedules them. Contributors may suggest additions by issue (Level 2 and up).
 
-Last updated: 2026-11-02
+Last updated: 2026-11-03
 
 ## Next up
 
@@ -37,7 +37,7 @@ Last updated: 2026-11-02
 ## Guided checklists
 
 13. **Step-by-step checklists**, checked off one box at a time:
-    - Set up your AI assistant project (Claude or ChatGPT) for PRJ-002
+    - Set up your AI assistant project (Claude, ChatGPT or Grok) for PRJ-002
     - Get the most from Facebook and Runtime Republic
     - X, GETTR, Discord and other channels
 
