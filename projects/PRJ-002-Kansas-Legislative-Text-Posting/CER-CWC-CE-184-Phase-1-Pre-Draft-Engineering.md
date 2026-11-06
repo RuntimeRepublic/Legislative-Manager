@@ -5,8 +5,10 @@
 **Governing Work Card:** CWC-CE-184 — PRJ-002 HG-0 Activation  
 **Governing SPEC:** SPEC-003  
 **Owning Manager:** Legislative Manager (`MGR-LEG`)  
-**Prepared by:** AI assistant under Human Engineer authorization (does not approve)  
+**Prepared by:** Cursor (AI coding agent) under Human Engineer authorization — does not approve  
+**Agent label:** Cursor  
 **Date:** 2026-11-06  
+**Version:** 0.1.1  
 **Lifecycle state:** Proposed — awaiting Engineering Review and Human Acceptance (HG-3 for card closure)  
 **Publication status:** Not published  
 
@@ -19,14 +21,14 @@ CWC-CE-184 §3 items 1–7 authorize Pre-Draft engineering maps, scaffolds, and 
 | Item | Deliverable | Result |
 |---|---|---|
 | 1 | `KS-AUTH-MAP-002` | Produced at Proposed |
-| 2 | `KS-STAT-MAP-002` | Produced at Proposed |
+| 2 | `KS-STAT-MAP-002` | Produced at Proposed (v0.1.1: Revisor 75-4317a) |
 | 3 | `KS-DEF-REG-002` | Produced at Proposed (scaffold; no operative definitions) |
-| 4 | `KS-CTRL-MAP-002` | Produced at Proposed (reference only) |
+| 4 | `KS-CTRL-MAP-002` | Produced at Proposed (v0.1.1: public GitHub links) |
 | 5 | `KS-NODE-MAP-002` | Produced at Proposed |
 | 6 | `KS-FISC-NOTE-002` | Produced at Proposed (structure only; no estimates) |
-| 7 | Citation verification §5.2 / §6.1 / §6.2 / §17 | Recorded in `KS-CIT-VER-002` |
+| 7 | Citation verification §5.2 / §6.1 / §6.2 / §17 | Recorded in `KS-CIT-VER-002` (v0.1.1) |
 
-Items 8–9 of CWC-CE-184 (SPEC maintenance; onboarding materials) were **not** in the requested execution scope for this CER and were not performed here.
+Items 8–9 of CWC-CE-184 (SPEC maintenance; onboarding materials) were **not** in the original items 1–7 execution scope for this CER. Item 8 joint-rules URL maintenance is tracked for a separate SPEC maintenance PR under the same card.
 
 ---
 
@@ -45,9 +47,18 @@ Items 8–9 of CWC-CE-184 (SPEC maintenance; onboarding materials) were **not** 
 | `projects/PRJ-002-Kansas-Legislative-Text-Posting/KS-CIT-VER-002-Citation-Verification.md` |
 | `projects/PRJ-002-Kansas-Legislative-Text-Posting/CER-CWC-CE-184-Phase-1-Pre-Draft-Engineering.md` |
 
-### Modified / deleted
+### Modified (Human Engineer corrections, 2026-11-06)
 
-None in this phase-1 package (SPEC-003 not rewritten in this CER cycle).
+| Path | Change |
+|---|---|
+| `KS-CTRL-MAP-002-…` | Public GitHub links; local paths removed |
+| `KS-STAT-MAP-002-…` | Revisor URL for 75-4317a |
+| `KS-CIT-VER-002-…` | Revisor URL; summary count updated |
+| This CER | Deviation note; agent label; evidence refresh |
+
+### Deleted
+
+None.
 
 ---
 
@@ -75,19 +86,20 @@ None in this phase-1 package (SPEC-003 not rewritten in this CER cycle).
 
 ## 5. Deviations from approved scope
 
-None material. Citation verification was filed as `KS-CIT-VER-002` (companion verification record) because §3 item 7 did not assign a production ID; content remains within authorized verification work.
+Citation verification was filed under ID `KS-CIT-VER-002` because CWC-CE-184 §3 item 7 did not assign a production ID. **That ID was accepted by the Human Engineer on 2026-11-06.** Content remains within authorized verification work.
 
 ---
 
 ## 6. Verification performed and evidence
 
 1. Constitutional text: Revisor pages for art. 2 §§ 8 and 14; art. 14 § 1.  
-2. Statutes: Revisor 75-4318, 45-215, 45-217; Justia reprint 75-4317a; KLRD KOMA summary.  
+2. Statutes: Revisor 75-4317a (confirmed “meeting” definition), 75-4318, 45-215, 45-217; KLRD KOMA summary.  
 3. Joint rules: HCR 5003 enrolled PDF + Senate rules joint reprint (Joint Rules 1, 3(f), 4(k)).  
-4. SPEC-003 §17 URL `…/li/s/pdf/joint_rules.pdf` returned **404** — recorded in `KS-CIT-VER-002`.  
-5. No fiscal numbers introduced.  
-6. No operative RES/BILL/AMD/CAP text.  
-7. No copy from *The One-Hour Rule* course or Human Engineer working documents into packages.
+4. SPEC-003 §17 URL `…/li/s/pdf/joint_rules.pdf` returned **404** — recorded in `KS-CIT-VER-002`; replacement tracked under CWC-CE-184 §3 item 8 (separate PR).  
+5. Control references: public GitHub files for AGCL 00F–00J and NBBF repo; CDT public reachability `[TO BE VERIFIED]`.  
+6. No fiscal numbers introduced.  
+7. No operative RES/BILL/AMD/CAP text.  
+8. No copy from *The One-Hour Rule* course or Human Engineer working documents into packages.
 
 ---
 
@@ -98,8 +110,11 @@ None material. Citation verification was filed as `KS-CIT-VER-002` (companion ve
 3. Exact statutory loci for Revisor duties, enrollment/presentment match, local opt-in, retention schedule.  
 4. New CAP section placement.  
 5. Version-identifier method.  
-6. Replace broken §17 joint_rules.pdf link in a future SPEC maintenance edit (item 8 of the card — not done here).  
-7. Engineering Review and Human Acceptance of this CER.
+6. Replace broken §17 joint_rules.pdf link (CWC-CE-184 §3 item 8 — separate SPEC maintenance PR).  
+7. CDT public repository URL.  
+8. AGCL/NBBF commit SHA pins.  
+9. 2025-01-21 Revisor KOMA/KORA memo URL confirmation.  
+10. Engineering Review and Human Acceptance of this CER.
 
 ---
 
@@ -109,7 +124,7 @@ None material. Citation verification was filed as `KS-CIT-VER-002` (companion ve
 |---|---|
 | Branch | `proposal/cwc-ce-184-phase-1` |
 | Base | `main` (RuntimeRepublic/Legislative-Manager) |
-| Commits | See PR after push |
+| Pull request | https://github.com/RuntimeRepublic/Legislative-Manager/pull/37 |
 | Merge | **Not performed** — Human Engineer only |
 
 ---
@@ -127,6 +142,15 @@ Not published. Not a public-review release of legislative text.
 | Accept CER / close CWC-CE-184 Phase 1 items 1–7 | *(blank — Human Engineer only)* | |
 
 Silence is not acceptance.
+
+---
+
+## Version History
+
+| Version | Date | Summary |
+|---|---|---|
+| 0.1.0 | 2026-11-06 | Initial CER for CWC-CE-184 Phase 1 items 1–7. |
+| 0.1.1 | 2026-11-06 | Human Engineer corrections: public control links; Revisor 75-4317a; `KS-CIT-VER-002` ID acceptance recorded; agent labeled Cursor. |
 
 ---
 
