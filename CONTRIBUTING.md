@@ -42,7 +42,7 @@ not yet at Level 2 or 3 may be closed without review.
 
 ## Using an AI assistant
 
-From Level 2, an AI assistant project (Claude or ChatGPT) connected to this repository is required
+From Level 2, an AI assistant project (Claude, ChatGPT or Grok) connected to this repository is required
 (SPEC-003 §18.4); before that it is recommended. It follows the same rule you do:
 it may draft and review, never approve. To set up Claude:
 

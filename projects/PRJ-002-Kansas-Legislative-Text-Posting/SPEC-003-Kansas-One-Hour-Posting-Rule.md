@@ -15,8 +15,8 @@
 **Related Project:** None (independent of PRJ-001)  
 **Jurisdiction:** State of Kansas  
 **Status:** Active — Phase 1, Pre-Draft engineering (CWC-CE-184); drafting awaits HG-1  
-**Version:** 0.5.0  
-**Date:** 2026-11-01  
+**Version:** 0.5.1  
+**Date:** 2026-11-03  
 
 ---
 
@@ -371,7 +371,7 @@ At every level the contributor proposes and the Human Engineer decides. Only the
 
 ### 18.4 AI Assistant Project (Level 2 and up)
 
-1. From Level 2, each contributor keeps an AI assistant project (a Claude Project or a ChatGPT project) connected to this repository's content on GitHub and set up with the Contributor instructions in `prompts/PRJ-002-Claude-Project-Instructions.md`.
+1. From Level 2, each contributor keeps an AI assistant project (a Claude Project, a ChatGPT project or a Grok project) connected to this repository's content on GitHub and set up with the Contributor instructions in `prompts/PRJ-002-Claude-Project-Instructions.md`.
 2. Evidence: the contributor checks Step 6 on their onboarding issue and comments which assistant they use. No screenshots of private chats are required.
 3. The assistant follows §18.3(3): it may research, draft non-operative material and review; it never approves.
 4. At Level 1 the AI assistant project is recommended, not required.
@@ -386,3 +386,4 @@ At every level the contributor proposes and the Human Engineer decides. Only the
 | 0.4.0 | 2026-11-01 | §18.1 Readiness Check simplified: 3 knowledge questions (all correct, retakes allowed) plus an unscored view-and-location part; *Reading the Draft* now recommended (Human Engineer's direction). No operative text. |
 | 0.4.1 | 2026-11-01 | Recorded CWC-CE-184 (HG-0) as Governing Work Card; status set to Active, Phase 1 (CWC-CE-184 §3 item 8). SPEC number confirmed as SPEC-003. No operative text. |
 | 0.5.0 | 2026-11-01 | §18.4 added: a connected AI assistant project (Claude or ChatGPT) is required from Level 2; §15 item 5 marked resolved (Human Engineer's direction). No operative text. |
+| 0.5.1 | 2026-11-03 | §18.4(1): Grok added as an accepted AI assistant project (Human Engineer's direction). No operative text. |

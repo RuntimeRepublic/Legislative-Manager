@@ -11,7 +11,7 @@ Follow [ONBOARDING.md](https://github.com/RuntimeRepublic/Legislative-Manager/bl
 ## My steps
 - [ ] 1. I have a GitHub account (this one)
 - [ ] 2. I read *The One-Hour Rule* Lessons 01–05 (*Reading the Draft* recommended)
-- [ ] 6. I set up my AI assistant project (Claude or ChatGPT) with the Contributor instructions, and commented which one (recommended now; required for Level 2)
+- [ ] 6. I set up my AI assistant project (Claude, ChatGPT or Grok) with the Contributor instructions, and commented which one (recommended now; required for Level 2)
 
 ## Recorded by the Human Engineer
 - [ ] 4. Private details received

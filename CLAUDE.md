@@ -4,7 +4,7 @@
 `Onboarding:` issue and the first unchecked box. Dates are in `CALENDAR.md`.**
 
 Read before any work in this repository. These rules apply to every AI assistant
-(Claude, ChatGPT, Cursor, Copilot or other) used by the Human Engineer or by a contributor.
+(Claude, ChatGPT, Grok, Cursor, Copilot or other) used by the Human Engineer or by a contributor.
 
 The binding operating manual is `prompts/LegislativeManager.md` (PROMPT-MGR-LEG-001).
 If anything here conflicts with it, the manual wins. Office architecture, policy and
